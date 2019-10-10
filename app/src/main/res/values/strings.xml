@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">7.2.1</string>
+    <string name="EditText">Введите адрес или координаты</string>
+    <string name="search">SEARCH</string>
+</resources>
